@@ -1,3 +1,4 @@
 if game.PlaceId == 124596094333302 or 6403373529 then
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/quanancode/brokyeen/refs/heads/main/brokyeen')))()
 else
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/quanancode/brokyeen/refs/heads/main/brokyeen')))()
